@@ -1,0 +1,9 @@
+Use workflow from
+Git repository URL
+https://github.com/android/sunflower
+Git branch name [Optional]
+Relative subdirectory path when the project is nested [Optional]
+OpenJDK version: 8, 17, 21, 25, …
+17
+build.gradle task name: assembleDebug, assembleRelease, etc.
+assembleRelease
